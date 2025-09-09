@@ -1,7 +1,7 @@
 ﻿using System.Net.Http.Headers;
 using System.Text.Json;
 
-var apiKey = "a6ff0ee6d343455fbcf96216a43111215c9b870b";
+var apiKey = "";
 var filePath = "Motivasyon.mp3";
 
 if (!File.Exists(filePath))
