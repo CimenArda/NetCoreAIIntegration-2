@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project06_HuggingFaceToxicB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project07_ClaudeChatbotProject", "Project07_ClaudeChatbotProject\Project07_ClaudeChatbotProject.csproj", "{F791DBC2-8A58-4BDB-9357-1EB727A62A07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project08_AnthropicAnalyseTextProject", "Project08_AnthropicAnalyseTextProject\Project08_AnthropicAnalyseTextProject.csproj", "{EA15B1C3-60D2-4390-A5FC-7EA71E9B34A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F791DBC2-8A58-4BDB-9357-1EB727A62A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F791DBC2-8A58-4BDB-9357-1EB727A62A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F791DBC2-8A58-4BDB-9357-1EB727A62A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA15B1C3-60D2-4390-A5FC-7EA71E9B34A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA15B1C3-60D2-4390-A5FC-7EA71E9B34A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA15B1C3-60D2-4390-A5FC-7EA71E9B34A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA15B1C3-60D2-4390-A5FC-7EA71E9B34A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
