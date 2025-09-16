@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project13_GoogleGeminiAICha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14_GoogleGeminiRole-based simulationProject", "Project14_GoogleGeminiRole-based simulationProject\Project14_GoogleGeminiRole-based simulationProject.csproj", "{39042F72-04E4-4172-9A4E-E89AA103B47D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GooglGeminiAutoAgentPromptProject", "Project15_GooglGeminiAutoAgentPromptProject\Project15_GooglGeminiAutoAgentPromptProject.csproj", "{E5E486BD-5C4A-4185-B3D9-989D7EF80B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{39042F72-04E4-4172-9A4E-E89AA103B47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39042F72-04E4-4172-9A4E-E89AA103B47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39042F72-04E4-4172-9A4E-E89AA103B47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E486BD-5C4A-4185-B3D9-989D7EF80B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E486BD-5C4A-4185-B3D9-989D7EF80B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E486BD-5C4A-4185-B3D9-989D7EF80B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E486BD-5C4A-4185-B3D9-989D7EF80B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
