@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GooglGeminiAutoAg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_OpenAICodeEditorProject", "Project16_OpenAICodeEditorProject\Project16_OpenAICodeEditorProject.csproj", "{51199F74-F4CF-49AE-9270-7B09E34CC755}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_StabilityAITextToImageProject", "Project17_StabilityAITextToImageProject\Project17_StabilityAITextToImageProject.csproj", "{9BEE76E4-C0A7-49D2-AD9A-0A172820EF21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{51199F74-F4CF-49AE-9270-7B09E34CC755}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51199F74-F4CF-49AE-9270-7B09E34CC755}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51199F74-F4CF-49AE-9270-7B09E34CC755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEE76E4-C0A7-49D2-AD9A-0A172820EF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEE76E4-C0A7-49D2-AD9A-0A172820EF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEE76E4-C0A7-49D2-AD9A-0A172820EF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEE76E4-C0A7-49D2-AD9A-0A172820EF21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
