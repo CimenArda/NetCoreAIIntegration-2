@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_StabilityAITextTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project18_ReplicateAICreateVideoProject", "Project18_ReplicateAICreateVideoProject\Project18_ReplicateAICreateVideoProject.csproj", "{1C2E7E04-3EA4-4D47-B6AF-97E603FAB502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project19_OpenAIVoiceChatbotProject", "Project19_OpenAIVoiceChatbotProject\Project19_OpenAIVoiceChatbotProject.csproj", "{7FC68E2F-17DB-44A7-A5DF-744FC2CB10EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{1C2E7E04-3EA4-4D47-B6AF-97E603FAB502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2E7E04-3EA4-4D47-B6AF-97E603FAB502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2E7E04-3EA4-4D47-B6AF-97E603FAB502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC68E2F-17DB-44A7-A5DF-744FC2CB10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC68E2F-17DB-44A7-A5DF-744FC2CB10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC68E2F-17DB-44A7-A5DF-744FC2CB10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC68E2F-17DB-44A7-A5DF-744FC2CB10EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
